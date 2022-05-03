@@ -1,10 +1,8 @@
 Part 1
 
-![image](https://user-images.githubusercontent.com/102768674/166521895-881815c3-741e-4154-957c-c657c221ff61.png)
-
+[week 5_6 flow.pdf](https://github.com/Arriaga8022/week7/files/8612924/week.5_6.flow.pdf)
 
 Part 2
-
 
 while True:
     #taking user input for name
